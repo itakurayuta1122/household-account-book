@@ -1,2 +1,2 @@
-:HL["/household-account-book/_next/static/chunks/1d4dhuz2wgesd.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"5JPR1o-kee4NSsCdjNfNf"}
+:HL["/household-account-book/_next/static/chunks/0jy6mcv9teuou.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"mVdWhI3EaIzYp_VapmcT5"}
